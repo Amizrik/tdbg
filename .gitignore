@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.pyc
+*.o
+*.a
+*.dylib
+*.so
+*.egg-info/
+dist/
+.venv/
+.claude/
